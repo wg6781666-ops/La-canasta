@@ -9,12 +9,65 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "hello-world",
+    "collections_mmeK9w": {
+      "type": "collections",
+      "name": "t:general.collections_grid",
+      "settings": {
+        "grid_item_width": "collections--compact",
+        "grid_gap": 5
+      }
+    },
+    "1774044072250aede5": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_ca571ea_79cYmC": {
+          "type": "ai_gen_block_ca571ea",
+          "settings": {
+            "product_title": "Camisa rosada",
+            "product_description": "<p>Hermosa camisa rosada de alta calidad, perfecta para cualquier ocasión.</p>",
+            "original_price": "$50.00",
+            "sale_price": "$35.00",
+            "button_link": "",
+            "button_text": "Comprar ahora",
+            "show_badge": true,
+            "badge_text": "¡OFERTA!",
+            "badge_position_top": 15,
+            "badge_position_right": 15,
+            "badge_font_size": 14,
+            "badge_border_radius": 4,
+            "badge_color": "#FF1744",
+            "badge_text_color": "#FFFFFF",
+            "layout": "row",
+            "desktop_width_percent": 100,
+            "gap": 30,
+            "padding": 30,
+            "border_radius": 8,
+            "image_border_radius": 8,
+            "background_color": "#FFF0F5",
+            "title_color": "#333333",
+            "description_color": "#666666",
+            "original_price_color": "#999999",
+            "sale_price_color": "#FF1744",
+            "button_color": "#FF69B4",
+            "button_hover_color": "#FF1493",
+            "button_text_color": "#FFFFFF",
+            "title_font_size": 32,
+            "description_font_size": 16,
+            "price_font_size": 20,
+            "button_font_size": 16,
+            "button_border_radius": 4
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_ca571ea_79cYmC"
+      ],
       "settings": {}
     }
   },
   "order": [
-    "main"
+    "collections_mmeK9w",
+    "1774044072250aede5"
   ]
 }
