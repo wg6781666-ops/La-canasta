@@ -1,0 +1,1 @@
+D:/Proyectos de Aplicaciones/La Canasta/La Canasta Componentes/AGENTS.md
